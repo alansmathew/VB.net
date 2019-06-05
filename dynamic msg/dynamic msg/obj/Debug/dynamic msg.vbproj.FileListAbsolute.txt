@@ -1,0 +1,10 @@
+D:\Share\Alan\dynamic msg\dynamic msg\bin\Debug\dynamic msg.exe.config
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic_msg.Form1.resources
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic_msg.Resources.resources
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic msg.vbproj.GenerateResource.Cache
+D:\Share\Alan\dynamic msg\dynamic msg\bin\Debug\dynamic msg.exe
+D:\Share\Alan\dynamic msg\dynamic msg\bin\Debug\dynamic msg.pdb
+D:\Share\Alan\dynamic msg\dynamic msg\bin\Debug\dynamic msg.xml
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic msg.exe
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic msg.xml
+D:\Share\Alan\dynamic msg\dynamic msg\obj\Debug\dynamic msg.pdb
