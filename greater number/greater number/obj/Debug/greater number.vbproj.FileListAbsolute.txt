@@ -1,0 +1,10 @@
+D:\Share\Alan\greater number\greater number\bin\Debug\greater number.exe.config
+D:\Share\Alan\greater number\greater number\obj\Debug\greater_number.Form1.resources
+D:\Share\Alan\greater number\greater number\obj\Debug\greater_number.Resources.resources
+D:\Share\Alan\greater number\greater number\obj\Debug\greater number.vbproj.GenerateResource.Cache
+D:\Share\Alan\greater number\greater number\bin\Debug\greater number.exe
+D:\Share\Alan\greater number\greater number\bin\Debug\greater number.pdb
+D:\Share\Alan\greater number\greater number\bin\Debug\greater number.xml
+D:\Share\Alan\greater number\greater number\obj\Debug\greater number.exe
+D:\Share\Alan\greater number\greater number\obj\Debug\greater number.xml
+D:\Share\Alan\greater number\greater number\obj\Debug\greater number.pdb
