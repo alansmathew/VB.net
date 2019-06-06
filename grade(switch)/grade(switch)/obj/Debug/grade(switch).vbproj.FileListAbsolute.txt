@@ -1,0 +1,10 @@
+D:\Share\Alan\grade(switch)\grade(switch)\bin\Debug\grade(switch).exe.config
+D:\Share\Alan\grade(switch)\grade(switch)\bin\Debug\grade(switch).exe
+D:\Share\Alan\grade(switch)\grade(switch)\bin\Debug\grade(switch).pdb
+D:\Share\Alan\grade(switch)\grade(switch)\bin\Debug\grade(switch).xml
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade_switch_.Form1.resources
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade_switch_.Resources.resources
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade(switch).vbproj.GenerateResource.Cache
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade(switch).exe
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade(switch).xml
+D:\Share\Alan\grade(switch)\grade(switch)\obj\Debug\grade(switch).pdb
