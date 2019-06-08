@@ -1,0 +1,10 @@
+D:\Share\Alan\largest of three numbers\largest of three numbers\bin\Debug\largest of three numbers.exe.config
+D:\Share\Alan\largest of three numbers\largest of three numbers\bin\Debug\largest of three numbers.exe
+D:\Share\Alan\largest of three numbers\largest of three numbers\bin\Debug\largest of three numbers.pdb
+D:\Share\Alan\largest of three numbers\largest of three numbers\bin\Debug\largest of three numbers.xml
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest_of_three_numbers.Form1.resources
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest_of_three_numbers.Resources.resources
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest of three numbers.vbproj.GenerateResource.Cache
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest of three numbers.exe
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest of three numbers.xml
+D:\Share\Alan\largest of three numbers\largest of three numbers\obj\Debug\largest of three numbers.pdb
