@@ -1,0 +1,10 @@
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\bin\Debug\listbox.exe.config
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\bin\Debug\listbox.xml
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.Resources.resources
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.vbproj.GenerateResource.Cache
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.xml
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.pdb
+C:\Users\alansm\Desktop\backup\VB\listbox\listbox\obj\Debug\listbox.add2.resources
