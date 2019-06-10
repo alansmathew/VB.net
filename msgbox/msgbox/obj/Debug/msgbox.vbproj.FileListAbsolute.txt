@@ -1,0 +1,10 @@
+D:\Share\Alan\msgbox\msgbox\bin\Debug\msgbox.exe.config
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.Form1.resources
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.Resources.resources
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.vbproj.GenerateResource.Cache
+D:\Share\Alan\msgbox\msgbox\bin\Debug\msgbox.exe
+D:\Share\Alan\msgbox\msgbox\bin\Debug\msgbox.pdb
+D:\Share\Alan\msgbox\msgbox\bin\Debug\msgbox.xml
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.exe
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.xml
+D:\Share\Alan\msgbox\msgbox\obj\Debug\msgbox.pdb
