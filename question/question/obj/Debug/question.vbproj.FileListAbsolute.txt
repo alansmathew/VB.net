@@ -1,0 +1,10 @@
+C:\Users\alansm\Desktop\backup\VB\question\question\bin\Debug\question.exe.config
+C:\Users\alansm\Desktop\backup\VB\question\question\bin\Debug\question.exe
+C:\Users\alansm\Desktop\backup\VB\question\question\bin\Debug\question.pdb
+C:\Users\alansm\Desktop\backup\VB\question\question\bin\Debug\question.xml
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.Form1.resources
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.Resources.resources
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.vbproj.GenerateResource.Cache
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.exe
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.xml
+C:\Users\alansm\Desktop\backup\VB\question\question\obj\Debug\question.pdb
