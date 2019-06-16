@@ -1,0 +1,22 @@
+D:\Share\Alan\project calculator\project calculator\bin\Debug\project calculator.exe.config
+D:\Share\Alan\project calculator\project calculator\bin\Debug\project calculator.exe
+D:\Share\Alan\project calculator\project calculator\bin\Debug\project calculator.pdb
+D:\Share\Alan\project calculator\project calculator\bin\Debug\project calculator.xml
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project_calculator.Resources.resources
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project calculator.vbproj.GenerateResource.Cache
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project calculator.exe
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project calculator.xml
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project calculator.pdb
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project calculator.vbprojResolveAssemblyReference.cache
+D:\Share\Alan\project calculator\project calculator\obj\Debug\project_calculator.cal.resources
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\bin\Debug\project calculator.exe.config
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project calculator.exe
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project calculator.xml
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project calculator.pdb
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\bin\Debug\project calculator.exe
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\bin\Debug\project calculator.pdb
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\bin\Debug\project calculator.xml
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project calculator.vbprojResolveAssemblyReference.cache
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project_calculator.cal.resources
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project_calculator.Resources.resources
+C:\Users\alansm\Desktop\backup\VB\project calculator\project calculator\obj\Debug\project calculator.vbproj.GenerateResource.Cache
