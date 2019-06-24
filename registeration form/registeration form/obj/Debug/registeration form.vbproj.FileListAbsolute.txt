@@ -1,0 +1,11 @@
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\bin\Debug\registeration form.exe.config
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\bin\Debug\registeration form.exe
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\bin\Debug\registeration form.pdb
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\bin\Debug\registeration form.xml
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration_form.Form1.resources
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration_form.Resources.resources
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration form.vbproj.GenerateResource.Cache
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration form.exe
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration form.xml
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration form.pdb
+C:\Users\alansm\Desktop\backup\VB\registeration form\registeration form\obj\Debug\registeration_form.Form2.resources
