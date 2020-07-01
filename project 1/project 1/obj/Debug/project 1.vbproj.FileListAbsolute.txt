@@ -1,0 +1,10 @@
+D:\Share\Alan\project 1\project 1\bin\Debug\project 1.exe.config
+D:\Share\Alan\project 1\project 1\bin\Debug\project 1.exe
+D:\Share\Alan\project 1\project 1\bin\Debug\project 1.pdb
+D:\Share\Alan\project 1\project 1\bin\Debug\project 1.xml
+D:\Share\Alan\project 1\project 1\obj\Debug\project_1.Resources.resources
+D:\Share\Alan\project 1\project 1\obj\Debug\project 1.vbproj.GenerateResource.Cache
+D:\Share\Alan\project 1\project 1\obj\Debug\project 1.exe
+D:\Share\Alan\project 1\project 1\obj\Debug\project 1.xml
+D:\Share\Alan\project 1\project 1\obj\Debug\project 1.pdb
+D:\Share\Alan\project 1\project 1\obj\Debug\project_1.project1.resources

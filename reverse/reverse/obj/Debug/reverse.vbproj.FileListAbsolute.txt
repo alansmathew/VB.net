@@ -1,0 +1,11 @@
+D:\Share\Alan\reverse\reverse\bin\Debug\reverse.exe.config
+D:\Share\Alan\reverse\reverse\bin\Debug\reverse.exe
+D:\Share\Alan\reverse\reverse\bin\Debug\reverse.pdb
+D:\Share\Alan\reverse\reverse\bin\Debug\reverse.xml
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.Form1.resources
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.Resources.resources
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.vbproj.GenerateResource.Cache
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.exe
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.xml
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.pdb
+D:\Share\Alan\reverse\reverse\obj\Debug\reverse.vbprojResolveAssemblyReference.cache

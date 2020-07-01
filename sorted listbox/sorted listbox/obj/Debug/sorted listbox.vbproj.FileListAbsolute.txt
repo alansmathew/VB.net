@@ -1,0 +1,10 @@
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\bin\Debug\sorted listbox.exe.config
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\bin\Debug\sorted listbox.exe
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\bin\Debug\sorted listbox.pdb
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\bin\Debug\sorted listbox.xml
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted_listbox.Form1.resources
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted_listbox.Resources.resources
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted listbox.vbproj.GenerateResource.Cache
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted listbox.exe
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted listbox.xml
+C:\Users\alansm\Desktop\backup\VB\sorted listbox\sorted listbox\obj\Debug\sorted listbox.pdb

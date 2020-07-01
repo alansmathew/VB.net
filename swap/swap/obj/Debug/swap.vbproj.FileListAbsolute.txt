@@ -1,0 +1,10 @@
+D:\Share\Alan\swap\swap\bin\Debug\swap.exe.config
+D:\Share\Alan\swap\swap\bin\Debug\swap.exe
+D:\Share\Alan\swap\swap\bin\Debug\swap.pdb
+D:\Share\Alan\swap\swap\bin\Debug\swap.xml
+D:\Share\Alan\swap\swap\obj\Debug\swap.Resources.resources
+D:\Share\Alan\swap\swap\obj\Debug\swap.vbproj.GenerateResource.Cache
+D:\Share\Alan\swap\swap\obj\Debug\swap.exe
+D:\Share\Alan\swap\swap\obj\Debug\swap.xml
+D:\Share\Alan\swap\swap\obj\Debug\swap.pdb
+D:\Share\Alan\swap\swap\obj\Debug\swap.Form1.resources
